@@ -5,7 +5,7 @@ export default async function handler(req, res) {
     if (req.method === 'POST') {
         const { resumeText, jobDescriptionText, userInput,draftInput } = req.body;
 
-        // console.log(process.env.OPENAI_API_KEY);
+        console.log(process.env.OPENAI_API_KEY);
         const apiKey = process.env.OPENAI_API_KEY; // 使用环境变量来存储 API 密钥
         const userContent = `Resume Content: ${resumeText}. Job Description Content: ${jobDescriptionText}. CoverLetter draft : ${draftInput}. Additional specific points or experiences wants to emphasize or include to make the coverletter better: ${userInput}`;
 
