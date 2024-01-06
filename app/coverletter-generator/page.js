@@ -96,7 +96,7 @@ function Coverletter() {
         </div>
 
       <div className="mb-6">
-        <h2 className="text-xl mb-2 font-bold text-2xl">Any Coverletter draft you want to provide?</h2>
+        <h2 className="text-xl mb-2 font-bold text-2xl">Any coverletter draft you want to provide?</h2>
         <p>Text (up to 1500 words):</p>
         <textarea 
             style={{height: '300px'}}       
