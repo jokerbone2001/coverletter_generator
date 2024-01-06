@@ -1,6 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Cover Letter Generator
 
-## Getting Started
+## About the Project
+The Cover Letter Generator is an innovative web application that automatically creates tailoredcover letters based on job descriptions and resumes. This tool is designed to assist job seekersby streamlining their application process. Created by team 'All All All in' for the EDUHACK 2023:competition, our goal is to empower users with a quick, easy way to generate cover letters thatstand out .
+
+## Team MembersXiaohong XuLingjie Li
+- Xiaohong Xu
+- Lingjie Li
+
+## Features
+Basic Cover Letter Generation: With just a resume and job description, generate a standard cover letter that aligns with the job's requirements.
+Enhanced Personalization: Improve the cover letter by adding extra details about your experiences, skills, or specific achievements.
+Professional Formatting: Cover letters are formatted professionally, making them ready for submission with your job application.
+User-Friendly Interface: Simple and intuitive interface, allowing users to input their information easily.
+
+## How to Use
+- Prepare Your Resume: Have your updated resume ready in a text  format 
+
+
+- Job Description: Keep the job description for the position you're applying for on hand.
+
+- Run the Generator: Follow the prompts to upload your resume and job description.
+
+- Provide Draft Coverletter (Optional): If you have a draft cover letter, our generator can enhance it for you. Simply upload your draft along with your resume and the job description. The generator will optimize your draft to better match the job requirements and highlight your qualifications effectively.
+
+- Provide Additional Information (Optional): For a more personalized cover letter, you can add extra details about your career, skills, or specific aspects you want to highlight.
+
+- [Receive Your Cover Letter]: The application will generate a cover letter based on the provided information. Review and make any final adjustments as needed.
+
+
+
+## Installation and Setup
 
 First, run the development server:
 
